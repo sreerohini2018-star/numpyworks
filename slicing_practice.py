@@ -30,3 +30,6 @@ print(arr[:,2])
 print(arr[:,2:4])
 #display english and malayalam marks of hari and cibin
 print(arr[1:3,1:3])
+#update
+arr[2,1]=36
+print(arr)
